@@ -1,4 +1,4 @@
-let taxiFareApiUrl = 'https://taxifare-oya5dchfda-ew.a.run.app'; // replace with API endpoint
+let taxiFareApiUrl = 'https://taxifare-oya5dchfda-ew.a.run.app/predict'; // replace with API endpoint
 const centralCoordinates = [-74.00597, 40.71427]; // starting position [lng, lat]
 
 if (window.location.href.includes('https://taxifare.lewagon.com')) {
